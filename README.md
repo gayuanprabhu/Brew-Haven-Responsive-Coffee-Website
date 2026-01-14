@@ -37,4 +37,8 @@ The website includes:
 ---
 
 ## 📂 Project Structure
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
